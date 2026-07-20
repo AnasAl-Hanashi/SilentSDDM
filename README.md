@@ -1,5 +1,7 @@
 
 > first test in my live
+> hi it is me again
+
 
 > [!WARNING]
 > This theme requires **SDDM v0.21.0 or newer**. Make sure your distro provides the correct version before installing.
